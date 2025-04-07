@@ -1,18 +1,22 @@
 <h2 align="left">Hi 👋! My name is Mayurdhvajsinh Jadeja and I'm a Software Developer, from India</h2>
 
+![](https://komarev.com/ghpvc/?username=MayurdhvajsinhJadeja&color=blue&style=for-the-badge&abbreviated=true)
+
 ###
 
-<div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=MayurdhvajsinhJadeja&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> -->
+<!--<div align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=MayurdhvajsinhJadeja&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MayurdhvajsinhJadeja&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div> -->
+
+###
+![Mayurdhvaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayurdhvajsinhJadeja&show_icons=true&theme=transparent)
+<!--<div>
+<img  height="150" src="https://gravatar.com/avatar/dcc7c7051c550373a4c12efc7ce59f03?size=256&cache=1714804114933"  />
 </div>
-
 ###
 
-<img align="right" height="150" src="https://gravatar.com/avatar/dcc7c7051c550373a4c12efc7ce59f03?size=256&cache=1714804114933"  />
-
-###
-
+<!--
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -88,6 +92,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
+
+-->
 
 ###
 
