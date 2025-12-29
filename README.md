@@ -12,8 +12,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MayurdhvajsinhJadeja&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div> -->
 
-###
-![Mayurdhvaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=MayurdhvajsinhJadeja&show_icons=true&theme=transparent)
 <!--<div>
 <img  height="150" src="https://gravatar.com/avatar/dcc7c7051c550373a4c12efc7ce59f03?size=256&cache=1714804114933"  />
 </div>
