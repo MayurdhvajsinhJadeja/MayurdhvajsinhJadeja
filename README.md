@@ -3,7 +3,7 @@
 <h3 align="left">Pssst... Around this portfolio, there are a few hidden clues and easter eggs, just waiting for the curious developer to find them!</h3>
 
 
-![](https://komarev.com/ghpvc/?username=MayurdhvajsinhJadeja&color=blue&style=for-the-badge&abbreviated=true)
+![](https://komarev.com/ghpvc/?username=mayurdhvajj&color=blue&style=for-the-badge&abbreviated=true)
 
 ###
 
